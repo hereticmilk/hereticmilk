@@ -1,4 +1,3 @@
-###### hereticmilk
 # Privet!✌️
 I'm Artur. **Design technologist** specializing in scalable design systems, workflow automation and bridging design and development. My background spans fintech, industrial hydro-engineering, e-commerce, entertainment, publishing and real estate.
 

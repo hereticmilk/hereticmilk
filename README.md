@@ -1,6 +1,6 @@
 ###### hereticmilk
 # Privet!✌️
-I'm Artur. **Design technologist** specializing in scalable design systems, workflow automation, and bridging design and development. My background spans fintech, industrial hydro-engineering, e-commerce, entertainment, publishing and real estate.
+I'm Artur. **Design technologist** specializing in scalable design systems, workflow automation and bridging design and development. My background spans fintech, industrial hydro-engineering, e-commerce, entertainment, publishing and real estate.
 
 I grew up in [Stupino](https://en.wikipedia.org/wiki/Stupino,_Stupinsky_District,_Moscow_Oblast), the town where the shell of **Sputnik-1** was manufactured, which sparked my passion for engineering. During school, I spent countless hours hacking[^hacking] with my friends, developing a hands-on understanding of tech that shaped my interests for years to come.
 
